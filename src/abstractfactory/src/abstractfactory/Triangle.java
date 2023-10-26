@@ -10,7 +10,7 @@ package abstractfactory;
  * @author fa20-bse-024
  */
 public class Triangle {
-     public void draw() {
-      System.out.println("Inside Rectangle::draw() method.");
+    public void draw() {
+      System.out.println("Inside Triangle::draw() method.");
    }
 }
