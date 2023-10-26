@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/abstractfactory/nbproject/private/
+/src/abstractfactory/build/
