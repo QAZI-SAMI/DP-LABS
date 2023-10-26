@@ -12,6 +12,6 @@ package abstractfactory;
 public class DoubleBorderRectangle implements Shape {
    @Override
    public void draw() {
-      System.out.println("Inside DoubleBorderRectangle::draw() method.");
-   }
+        System.out.println("Drawing Double Bordered Rectangle.");
+    }
 }

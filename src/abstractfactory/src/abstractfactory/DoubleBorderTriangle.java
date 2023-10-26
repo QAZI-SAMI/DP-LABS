@@ -11,7 +11,7 @@ package abstractfactory;
  */
 public class DoubleBorderTriangle implements Shape {
    @Override
-   public void draw() {
-      System.out.println("Inside DoubleBorderTriangle::draw() method.");
-   }
+      public void draw() {
+        System.out.println("Drawing Double Bordered Triangle.");
+    }
 }

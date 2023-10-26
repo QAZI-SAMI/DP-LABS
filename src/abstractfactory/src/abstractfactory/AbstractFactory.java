@@ -10,5 +10,5 @@ package abstractfactory;
  * @author fa20-bse-024
  */
 public abstract class AbstractFactory {
-   abstract Shape getShape(String shapeType) ;
+    abstract Shape getShape(String shapeType) ;
 }
