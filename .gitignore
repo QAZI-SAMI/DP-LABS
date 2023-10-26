@@ -29,3 +29,6 @@ bin/
 .DS_Store
 /src/abstractfactory/nbproject/private/
 /src/abstractfactory/build/
+/src/Builder/nbproject/private/
+/src/Builder/build/
+/src/Builder/dist/

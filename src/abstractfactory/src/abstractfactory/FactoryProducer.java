@@ -10,11 +10,16 @@ package abstractfactory;
  * @author fa20-bse-024
  */
 public class FactoryProducer {
-   public static AbstractFactory getFactory(boolean rounded){   
+   public static AbstractFactory getFactory(boolean rounded,boolean doubleborders){   
       if(rounded){
          return new RoundedShapeFactory();         
-      }else{
+      }
+      else if(doubleborders){
+      return new DoubleBorderShapeFactory();
+      }
+      else{
          return new ShapeFactory();
       }
    }
+
 }
