@@ -5,10 +5,7 @@
  */
 package GOF.DP_Lab8.Proxy.LabTask;
 
-/**
- *
- * @author FA20-BSE-017
- */
+
 public class RemoteProxyExam implements Exam {
 
    private RealExam realExam;
