@@ -5,10 +5,7 @@
  */
 package GOF.DP_Lab8.Proxy.LabTask;
 
-/**
- *
- * @author FA20-BSE-017
- */
+
 public class RemoteProxyImage implements Image {
 
    private RealImage realImage;
