@@ -5,10 +5,7 @@
  */
 package GOF.DP_Lab8.Proxy.ProxyImage;
 
-/**
- *
- * @author fa20-bse-017
- */
+
 public class ProxyImage implements Image{
 
    private RealImage realImage;

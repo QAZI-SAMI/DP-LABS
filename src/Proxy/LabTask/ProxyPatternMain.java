@@ -5,10 +5,7 @@
  */
 package GOF.DP_Lab8.Proxy.LabTask;
 
-/**
- *
- * @author fa20-bse-017
- */
+
 public class ProxyPatternMain {
 	
     public static void main(String[] args) {
