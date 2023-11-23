@@ -5,10 +5,7 @@
  */
 package proxypattern;
 
-/**
- *
- * @author fa20-bse-024
- */
+
 public class ProxyImage implements Image {
 
 private RealImage realImage;

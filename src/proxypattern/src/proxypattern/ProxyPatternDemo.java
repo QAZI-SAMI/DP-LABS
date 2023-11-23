@@ -5,10 +5,7 @@
  */
 package proxypattern;
 
-/**
- *
- * @author fa20-bse-024
- */
+
 public class ProxyPatternDemo {
 	
    public static void main(String[] args) {

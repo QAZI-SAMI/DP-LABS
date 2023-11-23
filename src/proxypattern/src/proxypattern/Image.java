@@ -5,10 +5,7 @@
  */
 package proxypattern;
 
-/**
- *
- * @author fa20-bse-024
- */
+
 public interface Image {
    void display();
 }
