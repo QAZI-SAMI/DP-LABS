@@ -4,10 +4,7 @@
  */
 package GOF.Command.TextEditorExample;
 
-/**
- *
- * @author Hamza
- */
+
 
 public abstract class Command {
     public Editor editor;
