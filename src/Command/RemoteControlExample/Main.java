@@ -4,10 +4,6 @@
  */
 package GOF.Command.RemoteControlExample;
 
-/**
- *
- * @author Hamza
- */
 public class Main {
 
     public static void main(String[] args) {
