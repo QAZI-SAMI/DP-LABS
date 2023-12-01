@@ -4,10 +4,7 @@
  */
 package GOF.Command.TextEditorExample;
 
-/**
- *
- * @author Hamza
- */
+
 public class CutCommand extends Command {
 
     public CutCommand(Editor editor) {
