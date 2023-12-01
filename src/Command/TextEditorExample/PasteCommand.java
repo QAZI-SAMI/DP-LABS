@@ -4,10 +4,7 @@
  */
 package GOF.Command.TextEditorExample;
 
-/**
- *
- * @author Hamza
- */
+
 public class PasteCommand extends Command {
 
     public PasteCommand(Editor editor) {
