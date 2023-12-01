@@ -4,10 +4,7 @@
  */
 package GOF.Command.TextEditorExample;
 
-/**
- *
- * @author Hamza
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
