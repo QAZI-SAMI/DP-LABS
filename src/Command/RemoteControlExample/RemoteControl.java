@@ -4,11 +4,6 @@
  */
 package GOF.Command.RemoteControlExample;
 
-/**
- *
- * @author Hamza
- */
-
 
 public class RemoteControl {
 
