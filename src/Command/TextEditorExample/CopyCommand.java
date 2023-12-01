@@ -4,10 +4,7 @@
  */
 package GOF.Command.TextEditorExample;
 
-/**
- *
- * @author Hamza
- */
+
 public class CopyCommand extends Command {
 
     public CopyCommand(Editor editor) {
