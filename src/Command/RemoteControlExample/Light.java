@@ -4,11 +4,7 @@
  */
 package GOF.Command.RemoteControlExample;
 
-/**
- *
- * @author Hamza
- */
-//Receiver
+
 
 public class Light {
 
