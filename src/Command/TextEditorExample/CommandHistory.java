@@ -6,10 +6,7 @@ package GOF.Command.TextEditorExample;
 
 import java.util.Stack;
 
-/**
- *
- * @author Hamza
- */
+
 public class CommandHistory {
     private Stack<Command> history = new Stack<>();
 
