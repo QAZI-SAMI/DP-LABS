@@ -4,11 +4,6 @@
  */
 package GOF.Command.RemoteControlExample;
 
-/**
- *
- * @author Hamza
- */
-//Concrete Command
 
 public class LightOffCommand implements Command {
 
