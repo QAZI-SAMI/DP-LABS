@@ -4,10 +4,7 @@
  */
 package gof.state.mediaplayerr;
 
-/**
- *
- * @author LAPTOP HOUSE
- */
+
 public class ReadyState extends State {
     public ReadyState(Player player) {
         super(player);
