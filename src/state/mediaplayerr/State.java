@@ -4,18 +4,11 @@
  */
 package gof.state.mediaplayerr;
 
-/**
- *
- * @author LAPTOP HOUSE
- */
+
 public abstract class State {
     Player player;
 
-    /**
-     * Context passes itself through the state constructor. This may help a
-     * state to fetch some useful context data if needed.
-     */
-    State(Player player) {
+        State(Player player) {
         this.player = player;
     }
 
