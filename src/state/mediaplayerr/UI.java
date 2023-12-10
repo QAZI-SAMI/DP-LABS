@@ -11,10 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author LAPTOP HOUSE
- */
+
 public class UI {
     private Player player;
     private static JTextField textField = new JTextField();
