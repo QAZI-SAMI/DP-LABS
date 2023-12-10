@@ -7,10 +7,7 @@ package gof.state.mediaplayerr;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author LAPTOP HOUSE
- */
+
 public class Player {
     private State state;
     private boolean playing = false;
