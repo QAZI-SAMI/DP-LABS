@@ -6,10 +6,6 @@ package gof.state.mediaplayerr;
 
 import java.util.List;
 
-/**
- *
- * @author LAPTOP HOUSE
- */
 
 public class TrackIterator {
     private List<String> playlist;
