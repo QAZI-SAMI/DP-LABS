@@ -5,10 +5,8 @@
  */
 package GOF.Memento.ShapeExample;
 
-/**
- *
- * @author fa20-bse-018
- */
+
+
 public class Memento {
     private String backup;
     private Editor editor;
