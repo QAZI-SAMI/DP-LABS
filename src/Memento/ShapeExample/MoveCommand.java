@@ -5,10 +5,6 @@
  */
 package GOF.Memento.ShapeExample;
 
-/**
- *
- * @author fa20-bse-018
- */
 public class MoveCommand implements Command {
     private Editor editor;
     private int startX, startY;
