@@ -5,7 +5,7 @@
  */
 package GOF.Memento.ShapeExample;
 
-\
+
 public interface Command {
     String getName();
     void execute();

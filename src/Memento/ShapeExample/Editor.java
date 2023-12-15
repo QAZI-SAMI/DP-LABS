@@ -5,10 +5,6 @@
  */
 package GOF.Memento.ShapeExample;
 
-/**
- *
- * @author fa20-bse-018
- */
 import javax.swing.*;
 import java.io.*;
 import java.util.Base64;

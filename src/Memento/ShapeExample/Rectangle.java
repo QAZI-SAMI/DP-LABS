@@ -5,10 +5,6 @@
  */
 package GOF.Memento.ShapeExample;
 
-/**
- *
- * @author fa20-bse-018
- */
 import java.awt.*;
 
 public class Rectangle extends BaseShape {
