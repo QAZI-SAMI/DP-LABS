@@ -1,0 +1,27 @@
+Observer Pattern:
+
+Observer
+Student
+Parent
+Administration
+Command Pattern:
+
+FeedbackCommand
+SurveyFeedback
+PollingFeedback
+DirectContactFeedback
+FeedbackProcessor
+Strategy Pattern:
+
+FeedbackStrategy
+DataAnalysisStrategy
+ActionPlanStrategy
+ContinuousImprovement
+Decorator Pattern:
+
+Feedback
+BasicFeedback
+TestExperienceDecorator
+CourseAssignmentDecorator
+StudentFeedback
+ParentFeedback
