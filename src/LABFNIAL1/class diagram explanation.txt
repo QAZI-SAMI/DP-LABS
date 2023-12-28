@@ -25,3 +25,26 @@ TestExperienceDecorator
 CourseAssignmentDecorator
 StudentFeedback
 ParentFeedback
+
+
+
+Observer Pattern:
+
+Observer: Defines the interface for objects that observe changes in the subject.
+Student, Parent, Administration: Concrete observers that implement the update method to respond to changes in the subject.
+Command Pattern:
+
+FeedbackCommand: Declares an interface for executing feedback-related operations.
+SurveyFeedback, PollingFeedback, DirectContactFeedback: Concrete command classes that implement specific feedback operations.
+FeedbackProcessor: Invokes feedback commands and acts as a client that sets and triggers the execution of a feedback command.
+Strategy Pattern:
+
+FeedbackStrategy: Declares an interface for various feedback improvement strategies.
+DataAnalysisStrategy, ActionPlanStrategy: Concrete strategy classes that implement specific feedback improvement approaches.
+ContinuousImprovement: Context class that sets and uses a feedback strategy to execute improvement.
+Decorator Pattern:
+
+Feedback: Defines the interface for providing feedback.
+BasicFeedback: Concrete component class that provides basic feedback.
+TestExperienceDecorator, CourseAssignmentDecorator: Concrete decorator classes that add additional details to basic feedback.
+StudentFeedback, ParentFeedback: Concrete decorator classes that override and provide student-specific and parent-specific feedback, respectively.
